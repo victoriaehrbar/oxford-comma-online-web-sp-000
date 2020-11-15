@@ -4,6 +4,7 @@ def oxford_comma(array)
 elsif array.count == 2
   return array.insert(1, "and")
 end
+end
 # new_array = []
 # puts index[0] + "," + index[1] + ", and" + index[2]
 end
