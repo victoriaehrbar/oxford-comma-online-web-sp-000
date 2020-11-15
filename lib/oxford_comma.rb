@@ -2,7 +2,7 @@ def oxford_comma(array)
   if array.count == 1
     return array.join
 elsif array.count == 2
-  return "string".insert(1, "and")
+  return "srray".insert(1, "and").join
 end
 end
 # new_array = []
