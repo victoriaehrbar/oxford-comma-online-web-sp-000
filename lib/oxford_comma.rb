@@ -8,10 +8,6 @@ elsif array.count == 3
 end
 elsif array.count > 3
 end
-# new_array = []
-# puts index[0] + "," + index[1] + ", and" + index[2]
-
-
 
 # ["hippo"]
 # ["hippo", "giraffe"] shovel and between hippo and giraffe
