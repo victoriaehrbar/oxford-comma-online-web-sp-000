@@ -3,7 +3,6 @@ def oxford_comma(array)
     return array.join
 elsif array.count == 2
   return array.join(" and ")
-end
 elsif array.count == 3
   return index[0] + "," + index[1] + ", and" + index[2]
 end
