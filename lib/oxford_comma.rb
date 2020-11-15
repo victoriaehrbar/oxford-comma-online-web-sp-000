@@ -7,5 +7,3 @@ end
 # ["hippo"]
 # ["hippo", "giraffe"]
 # ["hippo", "giraffe", "monkey", "horse"]
-# ["hippo", "giraffe", "monkey", "horse"]
-# ["hippo", "giraffe", "monkey", "horse"]
