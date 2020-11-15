@@ -4,7 +4,7 @@ puts index[0] + "," + index[1] + ", and" + index[2]
 end
 
 
-# ["hippo", "giraffe", "monkey", "horse"]
+# ["hippo"]
 # ["hippo", "giraffe", "monkey", "horse"]
 # ["hippo", "giraffe", "monkey", "horse"]
 # ["hippo", "giraffe", "monkey", "horse"]
