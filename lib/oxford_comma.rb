@@ -5,7 +5,6 @@ elsif array.count == 2
   return array.join(" and ")
 elsif array.count > 2
   last = array.pop(-1)
-  # array[-1]
 end
 end
 
