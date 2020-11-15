@@ -9,5 +9,5 @@ end
 
 
 # ["hippo"]
-# ["hippo", "giraffe"]
+# ["hippo", "giraffe"] shovel and between hippo and giraffe 
 # ["hippo", "giraffe", "monkey", "horse"]
