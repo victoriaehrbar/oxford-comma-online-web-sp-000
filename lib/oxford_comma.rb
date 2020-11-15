@@ -5,7 +5,7 @@ elsif array.count == 2
   return array.join(" and ")
 elsif array.count > 2
   last = array.pop
-  return array.join(", ") + "and " + last
+  return array.join(", ") + ", and " + last
 end
 end
 
