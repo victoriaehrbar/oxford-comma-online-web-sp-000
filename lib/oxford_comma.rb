@@ -5,7 +5,7 @@ elsif array.count == 2
   return array.join(" and ")
 end
 elsif array.count == 3
-  index[0] + "," + index[1] + ", and" + index[2]
+  return index[0] + "," + index[1] + ", and" + index[2]
 end
 # new_array = []
 # puts index[0] + "," + index[1] + ", and" + index[2]
