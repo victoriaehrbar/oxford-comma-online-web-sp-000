@@ -6,6 +6,7 @@ elsif array.count == 2
 elsif array.count == 3
   return array[0] + ", " + array[1] + ", and " + array[2]
 end
+elsif array.count > 3
 end
 # new_array = []
 # puts index[0] + "," + index[1] + ", and" + index[2]
